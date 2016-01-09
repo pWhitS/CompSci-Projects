@@ -1,6 +1,6 @@
 LogicalResolver
 ===============
-This project is an automated theorem prover, written in C++ using standard libraries. It utilizes the resolution technique to determine if a propositional statement in conjunctive normal form is satisfiable, i.e. if the statement can be true. 
+This project is an automated SAT solver, written in C++ using standard libraries. It utilizes the resolution technique to determine if a propositional statement in conjunctive normal form is satisfiable, i.e. if the statement can be true. 
 
 The program is executed using the command line by invoking the executable name along with 2 additional arguments.
   
