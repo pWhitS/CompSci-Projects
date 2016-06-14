@@ -1,14 +1,11 @@
 # CompSci-Projects
 Undergraduate Computer Science Projects
 
-AdjacentSquaresGame
--------------------
+### AdjacentSquaresGame
 An Artificial Neural Network is used to play the game Adjacent Squares.
 
-CanvasPong
-------------------
+### CanvasPong
 A simple HTML and JavaScript 2D Pong game.
 
-LogicalResolver
-------------------
+### LogicalResolver
 A satisfiability(SAT) solver
